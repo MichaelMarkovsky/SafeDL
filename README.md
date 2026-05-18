@@ -2,7 +2,7 @@
 
 >A Go backend + Chrome extension that ensures files are only downloaded **after being scanned by VirusTotal**.
 
-![Screenshot](./Screenshot.png)
+![Screenshot](./assets/Screenshot.png)
 
 ## Features
 - Cancels the **original browser download** and instead saves the file into a temp folder for scanning - improving security by ensuring files never reach the user unverified.  
